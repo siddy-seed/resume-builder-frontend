@@ -68,7 +68,7 @@ const Footer = () => {
                             </svg>
                         </a>
                     </div>
-                    <p className="mt-3 text-center">© 2025 <a href="https://prebuiltui.com">Rohan Singh</a></p>
+                    <p className="mt-3 text-center">© 2025 <a href="https://prebuiltui.com">Siddhant Giri</a></p>
                 </div>
             </footer>
         </>
